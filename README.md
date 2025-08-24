@@ -1,5 +1,4 @@
-# HTML & CSS Sandbox
-
+# Image Overylay
 This project is a simple **landing page demo** built with HTML and CSS. It showcases a modern **hero section** with a background image, heading, description, and a call-to-action button.
 
 ## Features
